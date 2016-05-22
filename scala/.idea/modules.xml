@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/scala.iml" filepath="$PROJECT_DIR$/scala.iml" />
+      <module fileurl="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/.idea/scala.iml" filepath="$PROJECT_DIR$/.idea/scala.iml" />
+      <module fileurl="file:$PROJECT_DIR$/../../../../../..//file:C:/..//C:/Users/Brett/repos/language-matrix/scala/scala.iml" filepath="file:C:/..//C:/Users/Brett/repos/language-matrix/scala/scala.iml" />
     </modules>
   </component>
 </project>
